@@ -57,6 +57,8 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 **Data Filters**
 - Allow users to filter data by product information like category and subcategory, and by location information like region, state, and city.
 
+![image](https://github.com/user-attachments/assets/a048eaf3-b614-4229-8abe-c7f4efbdedff)
+![image](https://github.com/user-attachments/assets/d9b394bc-e200-4877-be00-083671fcc898)
 
 ## Insights
 
